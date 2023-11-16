@@ -1,2 +1,2 @@
 # itcode
-internship lessons
+Задания стажировки
